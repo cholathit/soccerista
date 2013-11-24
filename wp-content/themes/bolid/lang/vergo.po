@@ -1,0 +1,567 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: bolid/functions/widgets/widget-blogauthor.php:60
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#. Text in function
+#: bolid/comments.php:28
+msgid "<span class=\"meta-nav\">&laquo;</span> Older Comments"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-homepage-tabs.php:1
+msgid "A tabbed widget."
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/mag-authorinfo.php:2
+msgid "About the Author"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-300.php:61
+msgid "Ad Code:"
+msgstr ""
+
+#. Text in echo
+#: bolid/archive.php:14
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/uni-404-content.php:19
+msgid "All Blog Posts"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-300.php:74
+msgid "Alt text:"
+msgstr ""
+
+#. Text in echo
+#: bolid/date.php:21
+#: bolid/date.php:25
+#: bolid/date.php:29
+msgid "Archive for"
+msgstr ""
+
+#. Text in echo
+#: bolid/tag.php:12
+#: bolid/category.php:11
+#: bolid/date.php:13
+msgid "Archive for the"
+msgstr ""
+
+#. Text in echo
+#: bolid/date.php:33
+msgid "Author Archive"
+msgstr ""
+
+#. Text in echo
+#: bolid/author.php:13
+msgid "Author archives: "
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-blogauthor.php:56
+msgid "Bio:"
+msgstr ""
+
+#. Text in echo
+#: bolid/author.php:25
+msgid "Bio: "
+msgstr ""
+
+#. Text in echo
+#: bolid/date.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/uni-404-content.php:11
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: bolid/tag.php:12
+#: bolid/category.php:11
+#: bolid/date.php:13
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: bolid/comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: bolid/functions/js/shortcode-generator/dialog.php:51
+msgid "Customize the Shortcode"
+msgstr ""
+
+#. Text in echo
+#: bolid/footer.php:58
+msgid "Designed by"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-ads-125.php:41
+msgid "Example"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:53
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Follow"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/js/shortcode-generator/dialog.php:77
+msgid "Framework does not support shortcodes."
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "From: "
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-blogauthor.php:68
+msgid "Gravatar Alignment:"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-blogauthor.php:64
+msgid "Gravatar Size:"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:68
+msgid "Group"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Hide the Content"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-125.php:101
+msgid "Image 2 URL"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-125.php:115
+msgid "Image 3 URL"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-125.php:129
+msgid "Image 4 URL"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-125.php:88
+msgid "Image URL"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-300.php:66
+msgid "Image Url:"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:74
+#: bolid/includes/uni-tabs.php:5
+msgid "Latest"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-blogauthor.php:70
+msgid "Left"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-twitter.php:70
+msgid "Limit:"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-300.php:70
+msgid "Link URL:"
+msgstr ""
+
+#. Text in echo
+#: bolid/header.php:51
+#: bolid/header.php:96
+msgid "MENU"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:82
+msgid "Medium"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Message via the contact form"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "My %s Profile"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: bolid/comments.php:29
+msgid "Newer Comments <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#. Text in echo
+#: bolid/template-404.php:12
+#: bolid/404.php:7
+msgid "Nothing found here"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-comments.php:76
+msgid "Number of comments"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:57
+msgid "Number:"
+msgstr ""
+
+#. Text in function
+#: bolid/header.php:16
+msgid "Page %s"
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/uni-404-content.php:3
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: bolid/page.php:17
+#: bolid/single-s-right.php:48
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: bolid/template-404.php:14
+#: bolid/search.php:33
+#: bolid/404.php:9
+msgid "Perhaps You will find something interesting form these lists..."
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:22
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Please enter your email address (and please make sure it\\'s valid)"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Please enter your message"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Please enter your name"
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/uni-tabs.php:6
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: bolid/tag.php:16
+#: bolid/category.php:15
+#: bolid/date.php:17
+msgid "Posts Tagged"
+msgstr ""
+
+#. Text in echo
+#: bolid/footer.php:58
+msgid "Powered by"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/js/shortcode-generator/dialog.php:60
+msgid "Preview"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:75
+#: bolid/includes/uni-tabs.php:7
+msgid "Random"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Read Less"
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/post-types/medpost.php:49
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Read More"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-blogauthor.php:75
+msgid "Read More Text (optional):"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-blogauthor.php:79
+msgid "Read More URL (optional):"
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/mag-relatedposts.php:1
+msgid "Related Posts"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Reply-To: "
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-blogauthor.php:71
+msgid "Right"
+msgstr ""
+
+#. Text in echo
+#: bolid/search.php:9
+msgid "Search Results for"
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/uni-searchform.php:2
+#: bolid/includes/uni-searchformhead.php:2
+msgid "Search website..."
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Show the Content"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:79
+msgid "Size:"
+msgstr ""
+
+#. Text in echo
+#: bolid/page.php:34
+#: bolid/single-s-right.php:86
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#. Text in echo
+#: bolid/search.php:31
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:72
+msgid "Sorting:"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:81
+msgid "Square"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Subscribe to our RSS feed"
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/uni-tabs.php:8
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-125.php:105
+msgid "Target 2 URL"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-125.php:119
+msgid "Target 3 URL"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-125.php:133
+msgid "Target 4 URL"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-125.php:92
+msgid "Target URL"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "There were one or more errors while submitting the form."
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:83
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-ads-300.php:57
+msgid "Title (optional):"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-comments.php:71
+#: bolid/functions/widgets/widget-blogauthor.php:52
+#: bolid/functions/widgets/widget-ads-125.php:79
+#: bolid/functions/widgets/widget-twitter.php:62
+#: bolid/functions/widgets/widget-social.php:36
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: bolid/includes/mag-ticker.php:3
+msgid "Trending"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:65
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-flickr.php:67
+msgid "User"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-twitter.php:66
+msgid "Username:"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-ads-125.php:1
+msgid "Vergo - Ads 125px 4x"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-ads-300.php:1
+msgid "Vergo - Ads Widget 300px"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-blogauthor.php:1
+msgid "Vergo - Blog Author Info"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-comments.php:1
+msgid "Vergo - Comments"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-flickr.php:1
+msgid "Vergo - Flickr"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-homepage-tabs.php:1
+msgid "Vergo - Home  Video Tabs"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-social.php:1
+msgid "Vergo - Social Networks"
+msgstr ""
+
+#. Text in function
+#: bolid/functions/widgets/widget-twitter.php:1
+msgid "Vergo - Twitter Stream"
+msgstr ""
+
+#. Text in echo
+#: bolid/functions/widgets/widget-featured-flex.php:75
+#: bolid/functions/widgets/widget-homeslider-2cat.php:72
+#: bolid/functions/widgets/widget-homeslider-2cat.php:111
+#: bolid/single-s-right.php:37
+#: bolid/includes/post-types/medpost.php:32
+#: bolid/functions/widgets/widget-homepage-2cat.php:178
+#: bolid/functions/widgets/widget-homepage-2cat.php:206
+#: bolid/functions.php:1
+#: bolid/functions/widgets/widget-featured.php:63
+#: bolid/includes/mag-relatedposts.php:32
+#: bolid/includes/post-types/archivepost.php:16
+#: bolid/includes/post-types/tab-post.php:13
+msgid "Views"
+msgstr ""
+
+#. Text in echo
+#: bolid/author.php:21
+msgid "Website: "
+msgstr ""
+
+#. Text in function
+#: bolid/functions/admin-shortcodes.php:1
+msgid "Your email was successfully sent."
+msgstr ""

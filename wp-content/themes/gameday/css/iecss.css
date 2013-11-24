@@ -1,0 +1,9 @@
+.fb-but,
+.twitter-but,
+.pinterest-but,
+.google-but,
+.linkedin-but,
+.rss-but,
+.youtube-but {
+	background-image: url(../images/social-buttons.png) !important;
+}

@@ -1,0 +1,243 @@
+@media screen and (max-width: 1026px) { 
+.container {
+width:auto;
+margin: 0 0;
+padding:0 20px;
+}
+
+.headad{ float:left; margin:0 0 40px 0;}
+
+.headad img{ margin:0;}
+
+ul#serinfo-nav>li{padding: 10px 3.6% 9px;}
+
+}
+
+/* Smaller screens */
+
+@media screen and (max-width: 1000px){
+
+.imgwrap img,
+.tab img,
+img.main-single,
+.imgwrap img:hover{ width:100% !important;}
+	
+}
+
+
+@media screen and (max-width: 970px){
+
+#clientsbox li{ width:24%;}
+
+li.services{ width:27%}
+
+.resmode-No{ display:none; visibility:hidden;}
+
+.section .container{padding:40px 0 !important;}
+
+
+#header{
+	padding:0;
+	float:left;
+	margin:0;
+}
+
+#header a img.logo{margin:0 0 30px 0;}
+
+
+.flexfull_wrap{ max-height: 580px !important}
+
+.widgetcol{ width:46.2%}
+
+.disres{ position:relative !important; top:auto; width:100% !important;}
+
+}
+
+/* Mobile */
+
+@media screen and (max-width: 770px){
+
+.flexslider .slides li a img,
+.tabitem iframe, .tabitem a img{ width:100%;}
+
+.tab{width:20%;}
+
+.ad300 img{ width:100%;}
+
+ul#serinfo-nav>li{padding: 10px 2% 9px;}
+
+.seccol li:nth-child(4){
+	display:none;
+}
+
+.tab span.ribbon{ top:auto;}
+
+
+.widgetcol_small{ height:auto;}
+
+#footer .flickwrap img{width: 55px;}
+
+}
+
+@media handheld, only screen and (max-width: 740px) {
+
+body {
+font-size: 14px;
+-webkit-text-size-adjust: none;
+}
+
+body {
+width: 100%;
+min-width: 0;
+margin-left: 0px;
+margin-right: 0px;
+padding-left: 0;
+padding-right: 0;
+margin-top:0;
+}
+
+
+#header,#content, #sidebar,#footer .threecol,
+.onecol, .twocol, .threecol, .fourcol, .fivecol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol, .twelvecol,.fifthcol,
+#footer .fourcol,
+.slidercol,.seccol,.widgetcol
+ {
+width: auto;
+float: none !important;
+margin-left: 0;
+margin-right: 0;
+}
+
+#sec-navigation{ float:left; width:100%; clear:both;}
+
+img#logo{ float: none; display:block; margin:35px auto;}
+
+#sidebar{
+	padding-left:0;
+	padding-right:0;
+	margin-top:40px;
+}
+
+#core{
+	margin:0 0 0 0;
+}
+
+#core_bg{ display:none;}
+
+.stuff h1,.stuff h2{ font-size:45px; border:none;}
+
+.flex-control-nav{ bottom:25px;}
+
+#copyright{ padding:0 0;}
+
+#copyright .fr{ float:left !important;}
+
+a.imgwrap,
+.seccol a img,
+.widgetcol_big a img{
+	width:100%;
+}{width:100% !important}
+
+.pagination{ margin-bottom:40px; height:35px;}
+
+.resmode-No{ display:none; visibility:hidden;}
+
+
+img.headimg,
+img.singleimg,
+.postslider img{width:100%;}
+
+.seccol li:nth-child(4){
+	display: block;
+}
+
+}
+
+
+@media only screen and (max-width: 639px) {
+
+.scrollTo_top{ visibility:hidden; display:none}
+
+.tmnf-sc-quote.left,
+.tmnf-sc-quote.right{ width:100%; float:none; margin-left:0; margin-right:0}
+
+
+.contact-form .forms textarea,
+.contact-form .forms input.txt{ width:100%; float:none; margin-left:0; margin-right:0; padding-left:0; padding-right:0}
+
+.contact-form .forms label{ margin-bottom:10px}
+
+.contact-form .forms .buttons .submit,
+.contact-form .forms input#sendCopy{ margin-left:0;}
+
+
+
+#header a img.logo{ display:block; float:none; margin:0 auto 30px auto;}
+
+a#triggernav,
+a#triggernav-sec{ display:block}
+
+#navigation,
+#sec-nav{ display:none; margin-bottom:40px;}
+
+#sec-nav{ width:200px}
+#sec-nav>li{ width:100%}
+#sec-nav>li>ul{ width:100%}
+
+#sec-nav>li:first-child>a{
+	padding-left:27px;
+}
+
+.nav{ width:100%}
+
+.nav li ul{ width:100%; border:none;}
+
+#nav>li,#main-nav>li{width:100%;}
+
+.nav{ width:100%}
+
+.nav li ul{ width:100%; border:none;}
+
+.nav>li>a{ background:none;}
+
+.tab{ width:45.5%;}
+
+iframe{width:100%; max-height:350px}
+
+#top-nav{ max-height: none;}
+
+.tickerwrap  ul.social-menu{ position:relative; float:left; right: auto; margin: 10px 0 10px 20px !important}
+
+.aboutus{ width:100%; padding:0 0;}
+
+.widgetflexslider span.ribbon{ display:none;}
+
+.related li{ width:100%; margin-right:0;}
+
+.related li a img{ width:100%;}
+
+.related li span.ribbon{ display:none;}
+
+} 
+
+@media only screen and (max-width: 429px) {
+
+#nav>li,#main-nav>li{width:100%;}
+
+iframe{max-height:250px}
+.tabitem iframe{max-height:250px}
+
+.imgwrap{ background-image:none !important;}
+
+.aboutus img,
+img.alignleft,
+img.alignright,
+img.aligncenter,
+.wp-caption,
+.wp-caption img{ width:100%; margin:5px 0 30px 0;}
+
+.aboutus img{ margin:30px 0 30px 0}
+
+.tab span.ribbon{ display:none;}
+
+}

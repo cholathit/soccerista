@@ -1,0 +1,128 @@
+/* @center grid
+********************************************************************************************
+********************************************************************************************/
+
+.centerrow {
+margin: 0;
+width:105%;
+overflow: hidden;
+}
+
+.centerthreecol,.centerfourcol,.centersixcol {
+margin:0 0 0 0;
+float: left;
+min-height: 1px;
+margin-bottom:30px !important;
+}
+
+.centerrow .centerthreecol {
+width: 21.6%;
+margin:0 3% 0 0;
+overflow:hidden;
+}
+
+.centerrow .centerfourcol {
+width: 29.75%;
+margin:0 3% 0 0;
+overflow:hidden;
+}
+
+
+.centerrow .centersixcol {
+width: 46%;
+margin:0 3% 0 0;
+overflow:hidden;
+}
+
+
+/* @the 1140px grid
+********************************************************************************************
+********************************************************************************************/
+
+.container{
+width: 100%;
+max-width: 1080px;
+margin: 0 auto 30px auto;
+padding:0 80px;
+overflow:hidden;
+position:relative;
+}
+
+.generalresp{
+width: 1080px !important;
+max-width: 1080px;
+min-width: 1080px !important;
+}
+
+.onecol, .twocol, .threecol, .fourcol, .fivecol,.fifthcol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol {
+margin-left:0;
+float: left;
+min-height: 1px;
+overflow:hidden;
+}
+
+.twocol {
+width: 10.75%;
+margin-left:5%;
+float:left;
+}
+
+.threecol {
+width: 23.3%;
+margin-left:2.2%;
+float:left;
+}
+
+#footer .threecol {
+width: 22%;
+margin-left:4%;
+margin-bottom:0px;
+}
+
+.fourcol {
+width: 31.68%;
+margin:0 0 0 0;
+padding:0;
+float:left;
+position:relative;
+}
+
+.fifthcol {
+width: 16%;
+padding:0;
+margin:0 0 0 4%;
+float:left;
+margin-bottom:40px;
+}
+
+.eightcol {
+width: 65.2%;
+padding-right:0;
+padding-left:0;
+margin:0 3% 0 0;
+float:left;
+}
+
+.sixcol {
+width:47.5%;
+margin-left:5%;
+}
+
+.twelvecol {
+width: 90%;
+float: left;
+}
+
+.first {
+margin-left: 0px !important;
+}
+
+object, embed {
+max-width: 100%;
+}
+
+
+
+img {
+	height: auto;
+}

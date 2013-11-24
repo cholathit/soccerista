@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gameday\n"
+"POT-Creation-Date: 2013-08-07 19:32-0500\n"
+"PO-Revision-Date: 2013-08-07 19:32-0500\n"
+"Last-Translator: \n"
+"Language-Team:  <mvpthemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_n;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "Error"
+msgstr ""
+
+#: 404.php:7
+msgid "The page you requested does not exist or has moved."
+msgstr ""
+
+#: archive.php:11
+msgid "All posts tagged"
+msgstr ""
+
+#: archive.php:12
+msgid "All posts by"
+msgstr ""
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:18
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:24 comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:25 comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:50
+msgid "You must be logged in to post a comment"
+msgstr ""
+
+#: comments.php:52
+msgid "Login"
+msgstr ""
+
+#: comments.php:61 comments.php:62
+msgid "Leave a Reply"
+msgstr ""
+
+#: functions.php:129
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:130
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:252
+msgid "Scores"
+msgstr ""
+
+#: functions.php:253
+msgid "Score"
+msgstr ""
+
+#: functions.php:268
+msgid "Score Categories"
+msgstr ""
+
+#: functions.php:509
+msgid "Page"
+msgstr ""
+
+#: functions.php:554
+msgid ""
+"Add a custom featured headline that will be displayed in the featured slider."
+msgstr ""
+
+#: functions.php:647
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: functions.php:650
+msgid "at"
+msgstr ""
+
+#: functions.php:651 functions.php:677
+msgid "Edit"
+msgstr ""
+
+#: functions.php:659
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:677
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:728
+msgid "Related Posts"
+msgstr ""
+
+#: header.php:126
+msgid "Don't Miss"
+msgstr ""
+
+#: index.php:29
+msgid "Right Now"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:9 sidebar.php:25
+msgid "About"
+msgstr ""
+
+#: single.php:11
+msgid "By"
+msgstr ""
+
+#: single.php:52
+msgid "Previous Story"
+msgstr ""
+
+#: single.php:55
+msgid "Next Story"
+msgstr ""
+
+#: admin/theme-settings.php:32 admin/theia-post-slider/admin-menu.php:28
+msgid "General Settings"
+msgstr ""
+
+#: admin/theme-settings.php:35
+msgid "Logo Location"
+msgstr ""
+
+#: admin/theme-settings.php:36
+msgid "Set the location of your logo."
+msgstr ""
+
+#: admin/theme-settings.php:42
+msgid "Small Logo"
+msgstr ""
+
+#: admin/theme-settings.php:43
+msgid ""
+"Select a file to appear as the small logo for your site if you chose to have "
+"the logo in the nagivation. The recommended maximum dimensions for this logo "
+"are 100x30."
+msgstr ""
+
+#: admin/theme-settings.php:48
+msgid "Large Logo"
+msgstr ""
+
+#: admin/theme-settings.php:49
+msgid ""
+"Select a file to appear as the large logo for your site if you chose to have "
+"the logo below the navigation. The recommended maximum dimensions (if you "
+"plan on using a 728x90 ad) for this logo are 222x90."
+msgstr ""
+
+#: admin/theme-settings.php:54
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/theme-settings.php:55
+msgid ""
+"Upload a 16x16px PNG/GIF image that will represent your website's favicon."
+msgstr ""
+
+#: admin/theme-settings.php:61
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/theme-settings.php:67
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-settings.php:75
+msgid "Color Settings"
+msgstr ""
+
+#: admin/theme-settings.php:78
+msgid "Primary Theme Color"
+msgstr ""
+
+#: admin/theme-settings.php:79
+msgid "Primary color for the site."
+msgstr ""
+
+#: admin/theme-settings.php:84
+msgid "Theme Secondary Color"
+msgstr ""
+
+#: admin/theme-settings.php:85
+msgid "The secondary color for the site."
+msgstr ""
+
+#: admin/theme-settings.php:90
+msgid "Primary Link Color"
+msgstr ""
+
+#: admin/theme-settings.php:91
+msgid "Primary link color for the site."
+msgstr ""
+
+#: admin/theme-settings.php:96
+msgid "Widget Heading Color"
+msgstr ""
+
+#: admin/theme-settings.php:97
+msgid "Widget heeading color for the site."
+msgstr ""
+
+#: admin/theme-settings.php:104
+msgid "Homepage Settings"
+msgstr ""
+
+#: admin/theme-settings.php:107
+msgid "Homepage Layout"
+msgstr ""
+
+#: admin/theme-settings.php:108
+msgid "This is a dropdown list."
+msgstr ""
+
+#: admin/theme-settings.php:114
+msgid "Featured Slider Tag Slug"
+msgstr ""
+
+#: admin/theme-settings.php:115
+msgid "Posts with tags in this field will show up in the Featured Slider."
+msgstr ""
+
+#: admin/theme-settings.php:121
+msgid "Maximum Featured Slider Items"
+msgstr ""
+
+#: admin/theme-settings.php:128
+msgid "News Ticker Settings"
+msgstr ""
+
+#: admin/theme-settings.php:131
+msgid "News Ticker Tag Slug"
+msgstr ""
+
+#: admin/theme-settings.php:132
+msgid "Posts with tags in this field will show up in the News Ticker."
+msgstr ""
+
+#: admin/theme-settings.php:138
+msgid "Maximum News Ticker Items"
+msgstr ""
+
+#: admin/theme-settings.php:146
+msgid "Article Settings"
+msgstr ""
+
+#: admin/theme-settings.php:149
+msgid "Show Featured Image?"
+msgstr ""
+
+#: admin/theme-settings.php:150
+msgid "Check this box if you would like to display a featured image thumb."
+msgstr ""
+
+#: admin/theme-settings.php:155
+msgid "Show Previous/Next Post Links?"
+msgstr ""
+
+#: admin/theme-settings.php:161
+msgid "Show Author Info Box?"
+msgstr ""
+
+#: admin/theme-settings.php:169
+msgid "Social Media Settings"
+msgstr ""
+
+#: admin/theme-settings.php:172 admin/theme-settings.php:225
+msgid "Attention"
+msgstr ""
+
+#: admin/theme-settings.php:178
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-settings.php:184
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-settings.php:190
+msgid "Pinterest"
+msgstr ""
+
+#: admin/theme-settings.php:196
+msgid "Instagram"
+msgstr ""
+
+#: admin/theme-settings.php:202
+msgid "Google Plus"
+msgstr ""
+
+#: admin/theme-settings.php:208
+msgid "Youtube"
+msgstr ""
+
+#: admin/theme-settings.php:214
+msgid "Linkedin"
+msgstr ""
+
+#: admin/theme-settings.php:222
+msgid "Ad Management"
+msgstr ""
+
+#: admin/theme-settings.php:231
+msgid "728x90 Ad Code"
+msgstr ""
+
+#: admin/theme-settings.php:237
+msgid "320x50 Mobile Ad Code"
+msgstr ""
+
+#: admin/theme-settings.php:243
+msgid "Wallpaper Ad Image URL"
+msgstr ""
+
+#: admin/theme-settings.php:249
+msgid "Wallpaper Ad URL"
+msgstr ""
+
+#: admin/theme-settings.php:257
+msgid "Footer Info"
+msgstr ""
+
+#: admin/theme-settings.php:260
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:32
+msgid "Theme:"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:47
+msgid "Transition effect:"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:62
+msgid "Transition duration (ms):"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:70
+msgid "Navigation Bar Settings"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:74
+msgid "Navigation text:"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:83
+msgid "Previous button text:"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:91
+msgid "Next button text:"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:99
+msgid "Button width (px):"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:108
+msgid "Horizontal position:"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:123
+msgid "Vertical position:"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:138
+msgid "Button behavior:"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:159
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:163
+msgid "Live Preview"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:240
+msgid "Credits"
+msgstr ""
+
+#: widgets/widget-ad125.php:19
+msgid "A widget that displays four 125x125 ads."
+msgstr ""
+
+#: widgets/widget-ad125.php:25
+msgid "Gameday: 125x125 Ads Widget"
+msgstr ""
+
+#: widgets/widget-ad300.php:19
+msgid "A widget that displays any 300px wide ad."
+msgstr ""
+
+#: widgets/widget-ad300.php:25
+msgid "Gameday: 300px Ad Widget"
+msgstr ""
+
+#: widgets/widget-catfeat.php:19 widgets/widget-catlist.php:19
+msgid "A widget that displays posts from a category of your choice."
+msgstr ""
+
+#: widgets/widget-catfeat.php:25
+msgid "Gameday: Category Feature"
+msgstr ""
+
+#: widgets/widget-catlist.php:25
+msgid "Gameday: Category List"
+msgstr ""
+
+#: widgets/widget-facebook.php:19
+msgid "A widget that displays a Facebook Like Box."
+msgstr ""
+
+#: widgets/widget-facebook.php:25
+msgid "Gameday: Facebook Widget"
+msgstr ""
+
+#: widgets/widget-scoreboard.php:19
+msgid "A scoreboard widget."
+msgstr ""
+
+#: widgets/widget-scoreboard.php:25
+msgid "Gameday: Scoreboard Widget"
+msgstr ""
